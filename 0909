@@ -1,2 +1,6 @@
 test git
+<<<<<<< HEAD
 new branch bgxxx
+=======
+new new branch
+>>>>>>> 95abd788825c1c83824fd718fe5debaa19469f94
